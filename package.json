@@ -4,8 +4,9 @@
   "description": "This is just a test...",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-coffee": "^3.0.2"
+    "gulp": "^4.0.0",
+    "gulp-coffee": "^3.0.2",
+    "lodash": "^4.17.11"
   },
   "devDependencies": {},
   "scripts": {
