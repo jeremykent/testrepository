@@ -7,5 +7,5 @@ AngularJS codes is written in CoffeeScript then compiled again in JavaScript.
 Use this command into your command prompt/terminal
 
 ```
-coffee --compile --output (directory to place compliled file) (file to be compiled)
+coffee --compile --output (directory to place compiled file) (file to be compiled)
 ```
